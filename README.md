@@ -2,23 +2,13 @@
 
 **What is the title of the software project? (project/title):**
 
-Häuser im antiken Griechenland
+Projektübersicht des Projekts
 
 **Which research field(s) does this software belong to?
-(project/research_field):**
-
-Humanities and Social Sciences / Non-European Languages and Cultures,
-Social and Cultural Anthropology, Jewish Studies and Religious Studies
-
-**What is the intended use of the software? How will your software
-contribute to research? (project/research_question/title):**
-
-def
-
-**Who are the project participants that deal with this software?
-(project/partner/id):**
+(project/research_field):** **What is the intended use of the software?
+How will your software contribute to research?
+(project/research_question/title):** **Who are the project participants
+that deal with this software? (project/partner/id):**
 
 **What licences are on the third-party software components?
 (smp/software-license):**
-
-AGPL-3.0-only
