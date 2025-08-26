@@ -1,0 +1,197 @@
+[
+  {
+    "question": "Wie lautet der Titel des Softwareprojekts?",
+    "set": "",
+    "values": "abc"
+  },
+  {
+    "question": "Zu welchem(n) Forschungsbereich(en) geh\u00f6rt diese Software?",
+    "set": "",
+    "values": "Geistes- und Sozialwissenschaften / Au\u00dfereurop\u00e4ische Sprachen und Kulturen, Sozial- und Kulturanthropologie, Judaistik und Religionswissenschaft"
+  },
+  {
+    "question": "In welche Anwendungsklasse wird die Software eingeordnet?",
+    "set": "",
+    "values": "Anwendungsklasse 2: Die Software soll eine langfristige Entwicklung und Wartbarkeit gew\u00e4hrleisten. Sie ist die Grundlage f\u00fcr einen \u00dcbergang zum Produktstatus."
+  },
+  {
+    "question": "Was ist der beabsichtigte Verwendungszweck der Software? Wie wird Ihre Software zur Forschung beitragen?",
+    "set": "",
+    "values": "def"
+  },
+  {
+    "question": "Welche Funktion hat die neue Software, die bisherige Software nicht abdeckt? Welche verwandte Software gibt es und warum ist diese nicht geeignet?",
+    "set": "",
+    "values": "gh"
+  },
+  {
+    "question": "Familienname(n)",
+    "set": "Set \"Heiko mauermann\"",
+    "values": "Mauermann"
+  },
+  {
+    "question": "Rufname(n)",
+    "set": "Set \"Heiko mauermann\"",
+    "values": "Heiko"
+  },
+  {
+    "question": "ORCID ID",
+    "set": "Set \"Heiko mauermann\"",
+    "values": "1234-5678-9101-1234"
+  },
+  {
+    "question": "Rolle",
+    "set": "Set \"Heiko mauermann\" Set #1",
+    "values": "Developer"
+  },
+  {
+    "question": "ROR-Suche",
+    "set": "Set \"Heiko mauermann\" Set #1",
+    "values": "Max Planck Society [01hhn8329]"
+  },
+  {
+    "question": "Affiliation",
+    "set": "Set \"Heiko mauermann\" Set #1",
+    "values": "Max Planck Society"
+  },
+  {
+    "question": "ROR ID",
+    "set": "Set \"Heiko mauermann\" Set #1",
+    "values": "https://ror.org/01hhn8329"
+  },
+  {
+    "question": "Gibt es existierende (personellen/finanziellen) Ressourcen oder wird es eine spezielle Finanzierung f\u00fcr die Softwareentwicklung geben?",
+    "set": "",
+    "values": "\u00d6resund Project"
+  },
+  {
+    "question": "Wann beginnt das Softwareprojekt?",
+    "set": "",
+    "values": "2025-07-09"
+  },
+  {
+    "question": "Wann endet das Softwareprojekt?",
+    "set": "",
+    "values": "2025-07-24"
+  },
+  {
+    "question": "Wie verfolgen Sie die verschiedenen Aufgaben und Anwendungsf\u00e4lle?",
+    "set": "",
+    "values": "jkl; mno"
+  },
+  {
+    "question": "Gibt es institutionelle Anforderungen an die Softwareentwicklung?",
+    "set": "",
+    "values": "qrs"
+  },
+  {
+    "question": "Gibt es Anforderungen bez\u00fcglich der Softwareentwicklung von externer Seite?",
+    "set": "",
+    "values": "tuv"
+  },
+  {
+    "question": "Welche Programmiersprache(n) planen Sie zu verwenden?",
+    "set": "",
+    "values": "wxy"
+  },
+  {
+    "question": "Welche Technologie oder welches Verfahren wird f\u00fcr die Versionierung verwendet?",
+    "set": "",
+    "values": "zab"
+  },
+  {
+    "question": "Welche externen Software-Komponenten werden verwendet? Welche Abh\u00e4ngigkeiten von Software-Bibliotheken gibt es? Wie dokumentieren Sie dies?",
+    "set": "",
+    "values": "cde"
+  },
+  {
+    "question": "Planen Sie Webdienste von Drittanbietern zu nutzen?",
+    "set": "",
+    "values": "fgh"
+  },
+  {
+    "question": "Verweist die Software auf andere Software-Projekte oder Objekte?",
+    "set": "",
+    "values": "ijk"
+  },
+  {
+    "question": "Welche Infrastrukturressourcen werden ben\u00f6tigt? In welchem Umfang?",
+    "set": "",
+    "values": "lmn"
+  },
+  {
+    "question": "Gibt es bereits eine Infrastruktur f\u00fcr die Softwareentwicklung? Wo wird die Infrastruktur gehostet?",
+    "set": "",
+    "values": "opq"
+  },
+  {
+    "question": "Gibt es technische Aspekte, bei denen noch Kompetenzen fehlen und dabei Unterst\u00fctzung hilfreich w\u00e4re?",
+    "set": "",
+    "values": "rst"
+  },
+  {
+    "question": "Wie lange soll die Software verwendbar bleiben? Welche Schritte werden unternommen, damit die Software im Anschluss an das Projekt weiter benutzt werden kann?",
+    "set": "",
+    "values": "uvw"
+  },
+  {
+    "question": "Muss diese Software l\u00e4ngerfristig aufbewahrt werden?",
+    "set": "",
+    "values": "xyz"
+  },
+  {
+    "question": "Wie wird eine Software-Dokumentation erstellt?",
+    "set": "",
+    "values": "abc"
+  },
+  {
+    "question": "Wo soll die Software gespeichert werden? Verf\u00fcgt der Speicherort \u00fcber eine klare Aufbewahrungsregelung?",
+    "set": "",
+    "values": "de"
+  },
+  {
+    "question": "Wird diese Software \u00f6ffentlich zug\u00e4nglich sein?",
+    "set": "",
+    "values": "Ja"
+  },
+  {
+    "question": "In welchem Repository oder Archiv wird die Software aufbewahrt? Wie leicht kann es gefunden werden? Welche Strategie wird angewandt, um die Software benutzbar zu halten?",
+    "set": "",
+    "values": "ghi"
+  },
+  {
+    "question": "Wie vergeben Sie Metadaten f\u00fcr Ihre Software?",
+    "set": "",
+    "values": "jk"
+  },
+  {
+    "question": "Geben Sie einen dauerhaften Identifikator f\u00fcr Ihre Software an?",
+    "set": "",
+    "values": "Sonstige: mno"
+  },
+  {
+    "question": "Planen Sie Unterst\u00fctzung oder Hilfe f\u00fcr Nutzende Ihrer Software anzubieten?",
+    "set": "",
+    "values": "Nein"
+  },
+  {
+    "question": "Wie organisieren Sie den Support- und Feedbackprozess mit anderen Nutzenden?",
+    "set": "",
+    "values": "pqr"
+  },
+  {
+    "question": "Steht Ihr Software-Management-Plan in Beziehung zu anderen Software-/Daten-Management-Pl\u00e4nen?",
+    "set": "",
+    "values": "stu"
+  },
+  {
+    "question": "Wie ist die rechtliche Situation?",
+    "set": "",
+    "values": "vwx"
+  },
+  {
+    "question": "Unter welche Art von Lizenz(en) wird die Software fallen?",
+    "set": "",
+    "values": "AGPL-3.0-only"
+  }
+]
