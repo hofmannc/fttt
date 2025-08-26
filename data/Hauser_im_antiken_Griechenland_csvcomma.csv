@@ -1,0 +1,39 @@
+Wie lautet der Titel des Softwareprojekts?,,abc
+Zu welchem(n) Forschungsbereich(en) gehört diese Software?,,"Geistes- und Sozialwissenschaften / Außereuropäische Sprachen und Kulturen, Sozial- und Kulturanthropologie, Judaistik und Religionswissenschaft"
+In welche Anwendungsklasse wird die Software eingeordnet?,,Anwendungsklasse 2: Die Software soll eine langfristige Entwicklung und Wartbarkeit gewährleisten. Sie ist die Grundlage für einen Übergang zum Produktstatus.
+Was ist der beabsichtigte Verwendungszweck der Software? Wie wird Ihre Software zur Forschung beitragen?,,def
+"Welche Funktion hat die neue Software, die bisherige Software nicht abdeckt? Welche verwandte Software gibt es und warum ist diese nicht geeignet?",,gh
+Familienname(n),"Set ""Heiko mauermann""",Mauermann
+Rufname(n),"Set ""Heiko mauermann""",Heiko
+ORCID ID,"Set ""Heiko mauermann""",1234-5678-9101-1234
+Rolle,"Set ""Heiko mauermann"" Set #1",Developer
+ROR-Suche,"Set ""Heiko mauermann"" Set #1",Max Planck Society [01hhn8329]
+Affiliation,"Set ""Heiko mauermann"" Set #1",Max Planck Society
+ROR ID,"Set ""Heiko mauermann"" Set #1",https://ror.org/01hhn8329
+Gibt es existierende (personellen/finanziellen) Ressourcen oder wird es eine spezielle Finanzierung für die Softwareentwicklung geben?,,Öresund Project
+Wann beginnt das Softwareprojekt?,,2025-07-09
+Wann endet das Softwareprojekt?,,2025-07-24
+Wie verfolgen Sie die verschiedenen Aufgaben und Anwendungsfälle?,,jkl; mno
+Gibt es institutionelle Anforderungen an die Softwareentwicklung?,,qrs
+Gibt es Anforderungen bezüglich der Softwareentwicklung von externer Seite?,,tuv
+Welche Programmiersprache(n) planen Sie zu verwenden?,,wxy
+Welche Technologie oder welches Verfahren wird für die Versionierung verwendet?,,zab
+Welche externen Software-Komponenten werden verwendet? Welche Abhängigkeiten von Software-Bibliotheken gibt es? Wie dokumentieren Sie dies?,,cde
+Planen Sie Webdienste von Drittanbietern zu nutzen?,,fgh
+Verweist die Software auf andere Software-Projekte oder Objekte?,,ijk
+Welche Infrastrukturressourcen werden benötigt? In welchem Umfang?,,lmn
+Gibt es bereits eine Infrastruktur für die Softwareentwicklung? Wo wird die Infrastruktur gehostet?,,opq
+"Gibt es technische Aspekte, bei denen noch Kompetenzen fehlen und dabei Unterstützung hilfreich wäre?",,rst
+"Wie lange soll die Software verwendbar bleiben? Welche Schritte werden unternommen, damit die Software im Anschluss an das Projekt weiter benutzt werden kann?",,uvw
+Muss diese Software längerfristig aufbewahrt werden?,,xyz
+Wie wird eine Software-Dokumentation erstellt?,,abc
+Wo soll die Software gespeichert werden? Verfügt der Speicherort über eine klare Aufbewahrungsregelung?,,de
+Wird diese Software öffentlich zugänglich sein?,,Ja
+"In welchem Repository oder Archiv wird die Software aufbewahrt? Wie leicht kann es gefunden werden? Welche Strategie wird angewandt, um die Software benutzbar zu halten?",,ghi
+Wie vergeben Sie Metadaten für Ihre Software?,,jk
+Geben Sie einen dauerhaften Identifikator für Ihre Software an?,,Sonstige: mno
+Planen Sie Unterstützung oder Hilfe für Nutzende Ihrer Software anzubieten?,,Nein
+Wie organisieren Sie den Support- und Feedbackprozess mit anderen Nutzenden?,,pqr
+Steht Ihr Software-Management-Plan in Beziehung zu anderen Software-/Daten-Management-Plänen?,,stu
+Wie ist die rechtliche Situation?,,vwx
+Unter welche Art von Lizenz(en) wird die Software fallen?,,AGPL-3.0-only
